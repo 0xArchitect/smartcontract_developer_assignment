@@ -67,6 +67,6 @@ Welcome to the technical test for the Blockchain Developer role. This test is de
 2. Submit via email or upload to a GitHub repository and share the link.
 
 ### **Deadline:**
-[Specify the Deadline Here]
+20 hours
 
 Good luck! 🚀
