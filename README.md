@@ -49,13 +49,13 @@ Welcome to the technical test for the Blockchain Developer role. This test is de
 
 ### **Deliverables:**
 - Rust contract code (`nft_minting.rs`).
-- Test cases written in Rust using the Anchor framework.
+- Test cases are written in Rust using the Anchor framework.
 
 ---
 
 ## **Evaluation Criteria**
 1. **Code Quality:** Clean, readable, and follows best practices.
-2. **Functionality:** The contract fulfills all requirements.
+2. **Functionality:** The contract fulfils all requirements.
 3. **Security:** Proper handling of edge cases and vulnerabilities.
 4. **Testing:** Comprehensive test coverage for all functions.
 5. **Documentation:** Brief explanation of your design choices, contract workflow, and how to run tests.
@@ -67,6 +67,6 @@ Welcome to the technical test for the Blockchain Developer role. This test is de
 2. Submit via email or upload to a GitHub repository and share the link.
 
 ### **Deadline:**
-20 hours
+20 hours from receiving the assingment
 
 Good luck! 🚀
